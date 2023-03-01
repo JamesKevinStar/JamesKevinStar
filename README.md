@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Conóceme:
 Soy estudiante universitario de Ingeniería Informática y de Sistemas <br>apasionado por la Inteligencia Artificial y la Tecnología.<br>Actualmente me encuentro en busca de trabajo relacionado a la <br>IA para mejorar mis capacidades y conocimientos.
 
 
