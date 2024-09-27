@@ -1,5 +1,5 @@
 # 💫 Conóceme:
-Soy estudiante universitario de Ingeniería Informática y de Sistemas apasionado por la Inteligencia Artificial y la Tecnología.<br><br>Actualmente me encuentro en busca de trabajo relacionado al mundo de la IA, para mejorar mis capacidades y conocimientos.
+Soy egresado en la carrera de Ingeniería Informática y de Sistemas, Interesado en el área de ciencia de datos.<br><br>Me interesan muchos los retos para poder mejorar mis habilidades, capacidades y conocimientos.
 
 
 ## 🌐 Redes Sociales:
