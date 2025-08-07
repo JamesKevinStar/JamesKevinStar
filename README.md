@@ -1,5 +1,5 @@
 # 💫 Conóceme:
-Soy egresado en la carrera de Ingeniería Informática y de Sistemas, Interesado en el área de ciencia de datos.<br><br>Me interesan muchos los retos para poder mejorar mis habilidades, capacidades y conocimientos.
+Soy Bachiller de la escuela profesional de Ingeniería Informática y de Sistemas de la UNSAAC, interesado en el área de ciencia de datos.<br><br>Me interesan muchos los retos para poder mejorar mis habilidades, capacidades y conocimientos.
 
 
 ## 🌐 Redes Sociales:
