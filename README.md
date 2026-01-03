@@ -1,5 +1,5 @@
-# 💫 Conóceme:
-Soy Bachiller de la escuela profesional de Ingeniería Informática y de Sistemas de la UNSAAC, interesado en el área de ciencia de datos.<br><br>Me interesan muchos los retos para poder mejorar mis habilidades, capacidades y conocimientos.
+# 💫 About me:
+I am a Bavhellor in Computer Science, interested in data science field.<br><br>I really enjoy challenges, I want to improve mi skills and knnowledge.
 
 
 ## 🌐 Redes Sociales:
