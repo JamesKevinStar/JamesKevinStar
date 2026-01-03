@@ -1,5 +1,5 @@
 # 💫 About me:
-I am a Bachellor in Computer Science, interested in data science field.<br><br>I really enjoy challenges, I want to improve mi skills and knnowledge.
+I am a Bachelor in Computer Science, interested in the field of Data Science.<br><br>I really enjoy challenges, and I want to improve my skills and knowledge.
 
 
 ## 🌐 Redes Sociales:
