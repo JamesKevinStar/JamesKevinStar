@@ -2,7 +2,7 @@
 I am a Bachelor in Computer Science, interested in the field of Data Science.<br><br>I really enjoy challenges, and I want to improve my skills and knowledge.
 
 
-## 🌐 Redes Sociales:
+## 🌐 Social Media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jameskevinstar) 
 
 # 💻 Tech Stack:
