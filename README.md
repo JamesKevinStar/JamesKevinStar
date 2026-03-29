@@ -1,5 +1,5 @@
 # 💫 About me:
-I am a Bachelor in Computer Science, interested in the field of Data Science.<br><br>I really enjoy challenges, and I want to improve my skills and knowledge.
+I am a Bachelor in Computer Science, passionate about Data Science.<br><br>I really enjoy solving challenges, and I want to improve my skills and knowledge.
 
 
 ## 🌐 Social Media:
