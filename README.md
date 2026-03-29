@@ -1,6 +1,7 @@
 # 💫 About me:
-I am a Bachelor in Computer Science, passionate about Data Science.<br><br>I really enjoy solving challenges, and I want to improve my skills and knowledge.
+Bachelor’s degree in Computer Science with a strong academic background and a passion for Data Science and Machine Learning.
 
+I enjoy solving challenges, improving my skills, and applying my knowledge to build solutions with real impact. My goal is to grow in dynamic, collaborative environments while contributing curiosity, attention to detail, and dedication to advancing technology.
 
 ## 🌐 Social Media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jameskevinstar) 
